@@ -25,5 +25,6 @@ I'm always open to collaboration and new ideas. If you find any of my projects i
 ## 📈 GitHub Stats
 
 ![Xentixar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xentixar&show_icons=true&hide=contribs)
+![Xentixar's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xentixar&layout=compact)
 
 Thank you for visiting my GitHub profile! 😊
