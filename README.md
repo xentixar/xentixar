@@ -1,46 +1,75 @@
-# 👋 Hello, I'm Pawan Bhatta
+# 👋 Hi, I’m Pawan Bhatta (xentixar)
 
-I'm Pawan Bhatta, a passionate software developer, open-source contributor, and technology enthusiast. I specialize in building scalable web applications, real-time communication systems, and high-performance software solutions. My expertise spans multiple programming languages, frameworks, and tools, allowing me to create efficient and innovative solutions.
+A Full-Stack Developer & System Programmer who loves building **fast backend systems**, **real-time communication tools**, and **developer-centric packages**.  
+I specialize in **Laravel**, **C**, **WebSockets**, and **high-performance architectures**.
 
-## 🔧 Technologies & Tools
+---
 
-- **Languages**: C, PHP, JavaScript, TypeScript, Python, C++, C#, Shell Scripting
-- **Frameworks**: Laravel, NestJS, React, Vue, Flask, Django, Express.js, Tailwind CSS
-- **Databases**: MySQL, PostgreSQL, MongoDB, SQLite, Redis
-- **DevOps & Tools**: Git, GitHub Actions, Docker, Nginx, Apache, CI/CD, WebSockets, GraphQL, REST API
-- **Game Development**: Raylib, Unreal Engine, SDL2
+## 🛠️ Tech Stack
 
-## 🌱 I’m currently learning
+**Languages:** C · PHP · JavaScript · TypeScript · Shell · Perl  
+**Frameworks:** Laravel · Livewire · FilamentPHP · NestJS · Alpine.js · React  
+**Databases:** PostgreSQL · MySQL · MongoDB · Redis  
+**Tools & Systems:** Docker · WebSockets · Queues · Event-driven design · Linux · Git  
+**Other Interests:** System-level programming, performance optimization, real-time servers, dev-tools
 
-I'm currently diving deeper into game development with C and Unreal Engine, while also enhancing my expertise in real-time WebSockets, distributed systems, and scalable architectures.
+---
 
-## 🔥 My Open Source Projects
+## 🚀 Featured Projects
 
-- **[Socklet](https://github.com/mysticastra/socklet)** - A C-based real-time socket framework.
-- **[Filament Comments](https://github.com/xentixar/filament-comments)** - A Filament plugin for managing comments efficiently.
-- **[JSON Craftor](https://github.com/mysticastra/jsoncraftor)** - A lightweight JSON utility library.
-- **[Prexoid](https://github.com/xentixar/prexoid)** - A game developed using Raylib in C.
+### 🔌 **Sockeon**
+A fast, framework-agnostic **PHP WebSocket + HTTP server** with attribute-based routing, room/broadcasting support, and real-time features.
 
-Find more of my projects on [GitHub](https://github.com/xentixar).
+### 🧠 **WorkflowStudio**
+A **visual workflow engine** for Laravel/Livewire/Filament — drag-and-drop flows, conditions, actions, and full workflow automation.
 
-## 🤝 Connect with Me
+### 📚 **Vexdocs**
+A blazing-fast static documentation generator. Build modern docs sites with minimal configuration.
 
-- 📝 **Portfolio & Blog:** [pawanrajbhatta.com.np](https://pawanrajbhatta.com.np)
-- **Email**: xentixar@gmail.com
-- 🐦 **Twitter:** [@xentixar](https://twitter.com/xentixar)
-- 💼 **LinkedIn:** [Pawan Bhatta](https://linkedin.com/in/xentixar)
+---
 
-Feel free to reach out if you have any questions, want to collaborate, or just want to connect!
+## 🧩 FilamentPHP Plugins
 
-## 🙌 Let's Collaborate
+### 💬 **filament-comments**
+Add a flexible, clean comment system to Filament panels — supports polymorphic models, moderation, relations & UI-ready components.
 
-I'm always open to collaboration and new ideas. If you find any of my projects interesting and want to contribute or collaborate, please don't hesitate to open an issue or submit a pull request.
+### 🧩 **filament-workflow-manager**
+A powerful workflow management package for Laravel Filament that allows you to define and manage state transitions for your Laravel models.
 
-## 📈 GitHub Stats
+### 🔔 **filament-push-notifications**
+A comprehensive Laravel package that provides real-time push notifications for Filament applications with support for both browser notifications and in-app Filament notifications.
 
-![Xentixar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xentixar&show_icons=true&hide=contribs)
-![Xentixar's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xentixar&layout=compact)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xentixar&theme=white" />
+---
 
-Thank you for visiting my GitHub profile! 😊
+## 🔧 More Tools, SDKs & Libraries
 
+- **Nepal Payment Integrations** (Khalti, eSewa,) SDKs  
+- **Laravel & PHP Dev Tools**  
+- **Event-driven utilities**  
+- **C-based micro-libraries**  
+- And many internal developer utilities
+
+Check my repos — I build a lot of things that never make it to Packagist 😄
+
+---
+
+## 📘 Currently Working On
+
+- Expanding **Sockeon** into a full real-time ecosystem  
+- Advancing **WorkflowStudio** into a full automation suite  
+- Building more Filament plugins & reusable developer tools  
+- Going deeper into **system programming in C**  
+- Creating libraries to improve developer experience across PHP ecosystems
+
+---
+
+## 📬 Connect With Me
+
+- GitHub: **@xentixar**  
+- LinkedIn: *https://www.linkedin.com/in/xentixar/*  
+- Twitter: https://twitter.com/xentixar  
+- Email: *xentixar@gmail.com*
+
+---
+
+> *“Code is a craft. Build things that matter and scale.”*
