@@ -17,26 +17,29 @@ I specialize in **Laravel**, **C**, **WebSockets**, and **high-performance archi
 
 ## 🚀 Featured Projects
 
-### 🔌 **Sockeon**
+### **Diffyne**
+A blazing-fast, server-driven UI framework for PHP powered by a lightweight Virtual DOM + Diff Engine (Delta Rendering Engine).
+
+### **Sockeon**
 A fast, framework-agnostic **PHP WebSocket + HTTP server** with attribute-based routing, room/broadcasting support, and real-time features.
 
-### 🧠 **WorkflowStudio**
+### **WorkflowStudio**
 A **visual workflow engine** for Laravel/Livewire/Filament — drag-and-drop flows, conditions, actions, and full workflow automation.
 
-### 📚 **Vexdocs**
+### **Vexdocs**
 A blazing-fast static documentation generator. Build modern docs sites with minimal configuration.
 
 ---
 
 ## 🧩 FilamentPHP Plugins
 
-### 💬 **filament-comments**
+### **filament-comments**
 Add a flexible, clean comment system to Filament panels — supports polymorphic models, moderation, relations & UI-ready components.
 
-### 🧩 **filament-workflow-manager**
+### **filament-workflow-manager**
 A powerful workflow management package for Laravel Filament that allows you to define and manage state transitions for your Laravel models.
 
-### 🔔 **filament-push-notifications**
+### **filament-push-notifications**
 A comprehensive Laravel package that provides real-time push notifications for Filament applications with support for both browser notifications and in-app Filament notifications.
 
 ---
